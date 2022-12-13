@@ -1,6 +1,6 @@
 # qas
 def my_superfunction():
-    print('What an awesome print!')
+    print('ONE MORE TRY MOTHERF%#@0$!!!!')
 
 
 def main():
